@@ -11,7 +11,7 @@ public:
 	{
 		std::string smtpServer;      //the SMTP server
 		std::string serverPort;      //the SMTP server port
-		std::string charset;         //the IMF character set
+		std::string charset;         //the email character set
 		std::string sender;          //the sender's name
 		std::string senderEmail;     //the sender's email
 		std::string password;        //the password of sender
